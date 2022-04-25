@@ -1,3 +1,5 @@
+⚠️ This library is now obsolete. Please use https://github.com/100askTeam/lv_lib_100ask/tree/master/src/lv_100ask_chinese_ime instead. ⚠️
+
 <h1 align="center"> lv_chinese_ime</h1>
 
 <p align="center">
