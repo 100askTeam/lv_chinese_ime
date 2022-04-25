@@ -1,4 +1,4 @@
-
+⚠️ 这个图书馆现在已经过时了。请改用：https://github.com/100askTeam/lv_lib_100ask/tree/master/src/lv_100ask_chinese_ime ⚠️
 
 
 
